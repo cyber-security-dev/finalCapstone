@@ -2,11 +2,16 @@
 
 Program that allows the user to access two different financial calculators: an investment calculator calculates _“simple”_ or _“compound”_ interest and a home loan repayment calculator.
 
-## Installation
+## Table of contents
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Author of the project](#Author-of-the-project)
+
+### Installation
 
 Copy the code and paste it into your project.
 
-## Usage
+### Usage
 
 When starting the programme, the user must select the calculation to be performed.
 
@@ -39,6 +44,6 @@ Print out the answer. Amount user will have to repay each month.
 
 ![Print the result of the bond calculation.](img/bond_result_print.jpg)
 
-## Author of the project
+### Author of the project
 
 Tetiana Hartley.
