@@ -1,9 +1,6 @@
 # Financial calculator
 
-___
-
 Program that allows the user to access two different financial calculators: an investment calculator calculates _“simple”_ or _“compound”_ interest and a home loan repayment calculator.
-___
 
 ## Installation
 

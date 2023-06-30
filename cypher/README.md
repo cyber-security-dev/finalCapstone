@@ -1,9 +1,6 @@
 # Caesar's cipher
 
-___
-
 Encrypts the message using the 'Caesar' cipher, in which every 15th letter of the alphabet, to the right after the letter that is in the message e.g. a is replaced by p. The substitution takes place in a circle of the alphabet. Capital letters remain uppercase, spaces, numbers and other characters remain unchanged.
-___
 
 ## Installation
 
